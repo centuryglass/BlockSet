@@ -1,0 +1,14 @@
+build
+target
+maps
+MCMap
+*test.png
+gzstream/*.o
+gzstream/*.a
+testMapGen.json
+testServerConf.json
+testUpdate.json
+generatorTestKeys
+*.pub
+*.key
+/nbproject/

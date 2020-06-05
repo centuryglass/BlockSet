@@ -1,0 +1,7 @@
+name: BlockSet
+
+version: 0.1
+
+main: org.centuryglass.BlockSet
+
+api-version: 0.1

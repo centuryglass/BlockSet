@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- An example XML file to test loading block data -->
+<game>
+    <entitySet>
+        <entity modelName="diamond">
+            <property name="Position">
+                <set value="60, 60, 60"></set>
+            </property>
+        </entity>
+        <entity modelName="diamond">
+            <property name="Position">
+                <set value="60, 61, 60"></set>
+            </property>
+        </entity>
+        
+        <entity modelName="diamond">
+            <property name="Position">
+                <set value="60, 62, 60"></set>
+            </property>
+        </entity>
+        
+        <entity modelName="diamond">
+            <property name="Position">
+                <set value="60, 63, 60"></set>
+            </property>
+        </entity>
+        <entity modelName="gold">
+            <property name="Position">
+                <set value="61, 60, 60"></set>
+            </property>
+        </entity>
+        <entity modelName="gold">
+            <property name="Position">
+                <set value="61, 61, 60"></set>
+            </property>
+        </entity>
+        
+        <entity modelName="gold">
+            <property name="Position">
+                <set value="61, 62, 60"></set>
+            </property>
+        </entity>
+        
+        <entity modelName="gold">
+            <property name="Position">
+                <set value="61, 63, 60"></set>
+            </property>
+        </entity>
+    </entitySet>
+</game>

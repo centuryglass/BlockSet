@@ -1,0 +1,9 @@
+name: BlockSet
+
+description: WIP minecraft map plugin
+
+version: 0.1
+
+main: com.centuryglass.block_set.Plugin
+
+api-version: 1.14
